@@ -1,0 +1,15 @@
+# python 가상환경
+.venv/
+
+# 바이트코드 캐시
+__pycache__/
+*.pyc 
+
+# 환경변수 파일 
+.env
+
+# 기타
+*.log
+*.sqlite3
+__pycache__/
+.venv/
